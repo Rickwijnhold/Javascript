@@ -1,9 +1,6 @@
-var mijnauto = {
-    martk: "Ford",
-    type: "Mondeo",
-    aantalWielen: 4,
-    kleur: "blauw"
+var hello = {
+    world: "Hello World!",
+
 }
 
-console.log(mijnauto.kleur);
-document.getElementById("grotekop").innerHTML = mijnauto.kleur;
+console.log(hello.world);
